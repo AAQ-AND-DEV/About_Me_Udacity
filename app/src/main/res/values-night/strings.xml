@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Aaron A Quaday</string>
+    <string name="star_image_cd">star image</string>
+    <string name="bio">You see my name above. That\'s mine, but you can use it.\n\nI\'ve been coding for several years, but have mostly made very simple apps. Hopefully, that will soon change, as I progress through this Udacity Android Kotlin Nanodegree!\n\nI\'m committed to making the world a better place for people, animals, and plants. All life is my concern, basically.\n\nWhen one spends as much time in front of the computer as I do, one starts to wonder whether I\'m contributing too much to energy consumption.\n\nI\'ve read that the very complex AI being developed, in naive ways, actually consumes a huge amount of energy, which is a drag, because AI can be a helpful resource.\n\n</string>
+    <string name="done">Done</string>
+    <string name="nickname_hint">Type Your Nickname</string>
+</resources>
